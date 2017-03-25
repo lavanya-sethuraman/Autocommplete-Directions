@@ -1,0 +1,56 @@
+#origin,#destination{
+      background-color: #fff;
+      font-family: Roboto;
+
+      font-weight: 300;
+      margin-left: 12px;
+      padding: 0 11px 0 13px;
+      width: 400px;
+    }
+input,button{
+width:200px;
+height:30px;
+margin-top:20px;
+padding-top:5px;
+font-family: 'Roboto','sans-serif';
+line-height: 30px;
+padding-left: 10px;
+font-size:20px;
+}
+
+    #origin:focus,#destination:focus {
+      border-color: #4d90fe;
+    }
+#map {
+height: 250px;
+width:400px;
+}
+body{
+display: inline-block;
+}
+
+}
+form{
+border:1px solid black;
+margin-top:100px;
+margin-left: 100px;
+padding-top:5px;
+width:200px;
+height:200px;
+border-style: 1px solid grey;
+}
+label{
+font-weight: bold;
+display:block;
+clear:both;
+margin-left: 100px;
+
+}
+button{
+text-align: center;
+padding-top:0px;
+margin-top: 40px;
+margin-left:100px;
+}
+
+     
